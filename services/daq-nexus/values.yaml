@@ -53,5 +53,5 @@ nexus-file-converter:
         name: rabbitmq-password
         key: rabbitmq-password
   securityContext:
-    runAsUser: 37888 # p46-detector
+    runAsUser: 37888 # p48-detector
     runAsGroup: 37888
