@@ -44,7 +44,7 @@ blueapi:
       auth:
         username: p48
         password: ${RABBITMQ_PASSWORD}
-      host: daq-rabbitmq
+      host: p48-rabbitmq
     scratch:
       root: /exports/mybeamline/p48/scratch/blueapi
   
